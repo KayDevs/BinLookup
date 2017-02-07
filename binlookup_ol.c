@@ -1,0 +1,1 @@
+int main(int argc, char** argv) {puts(1[argv-~(int)(3657293823>>31-*(int*)1[argv]%32&1)]);}
