@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	//that has their party affiliations not in chronlogical order, but in order of the indices produced above.
 	//the binary looks like this (I did this by hand):
 	//[1101 1001 1111 1101 1101 1] [111 1111 1111]
-	//the first box is the first 20 indexes where the presidents exist (with ones for indices without an associated president)
+	//the first box is the first 20 indexes where the presidents exist (with 1s for indices without an associated president)
 	//the second box is padding.
 	//the above binary converted to decimal is 3657293823. That's our table.
 	//confirmation:
